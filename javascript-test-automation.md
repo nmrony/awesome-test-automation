@@ -104,12 +104,14 @@ No dependencies, works with any unit testing framework.
 * [page-object](https://github.com/vitalets/page-object) - A Page Object pattern implementation library for JavaScript.
 * [BackstopJS](https://github.com/garris/BackstopJS) - BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
 * [Taiko](https://github.com/getgauge/Taiko) - A Node.js library to test and automate chromium browsers.
+* [QA Wolf](https://github.com/qawolf/qawolf) - A Node.js library to create browser tests 10x faster with Puppeteer and Jest.
 
 
 ## API automation
 * [SuperTest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
 * [Frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun.
 * [Just-API](https://github.com/kiranz/just-api) - Declarative testing framework for REST, GraphQL APIs.
+* [PactumJS](https://pactumjs.github.io) - REST API Testing Tool for all levels in a Test Pyramid.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](https://github.com/webdriverio/appium-boilerplate/) - nodejs bindings implemeting Appium commands.
@@ -154,6 +156,7 @@ No dependencies, works with any unit testing framework.
 * [Grunt](https://gruntjs.com/) - Streaming building system/task runner in nodejs. Can't do anything without plugins, but there are many of them for all kinds of purposes.
 
 ## Reporting
+* [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
 * [ReportPortal.io](http://ReportPortal.io) - powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests, with huge list of [available integrations](https://github.com/reportportal?utf8=✓&q=agent-). Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 * [Istanbul](https://github.com/gotwarlost/istanbul) - JS coverage tool for unit tests, server side functional tests and browser tests.
 * [Blanket](http://blanketjs.org/) - JavaScript code coverage library that works both in-browser and with nodejs.
@@ -161,6 +164,8 @@ No dependencies, works with any unit testing framework.
 * [Allure](http://allure.qatools.ru/) - a universal reporter for any testing framework. Supports [Mocha](https://docs.qameta.io/allure/2.0/#_mocha) and [Jasmine (and Protractor)](https://docs.qameta.io/allure/2.0/#_jasmine)
 * [cucumber-html-reporter](https://www.npmjs.com/package/cucumber-html-reporter) - Provide Cucumber JSON report file created from your framework and this module will create pretty HTML reports. Choose your best suitable HTML theme and dashboard on your CI with available HTML reporter plugins.
 * [Coveralls GitHub Action](https://github.com/gavinhenderson/coveralls-action) - A GitHub Action that will automatically report your latest test results to coveralls
+
+
 
 ## Data-Driven Testing
 * [test-each](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
@@ -198,6 +203,7 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+* [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
 
 
 ## Articles

@@ -11,6 +11,7 @@ Table of content:
 - [Security testing](#security-testing)
 - [REST API testing](#api-testing)
 - [Test design](#test-design)
+- [Test management](#test-management)
 - [Web UI test automation](#web-ui-test-automation)
 - [Windows GUI automation](#windows-gui-automation)
 
@@ -51,6 +52,7 @@ Also:
 * [Schemathesis](https://github.com/kiwicom/schemathesis) - Schemathesis is a tool for property-based testing of applications based on Open API & Swagger specs. It reads the application schema and generates test cases which will ensure that your application is compliant with its schema.
 * [GMeter](https://github.com/hexdigest/gmeter) - GMeter is an open-source standalone HTTP reverse-proxy server for recording and replaying HTTP requests. GMeter allows you to record multiple HTTP requests made within one test case to a "cassette" and to use this cassette to mock downstream service later on.
 * [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
+* [Apitest](https://github.com/sigoden/apitest) - Apitest is declarative api testing tool with JSON-like DSL for easy testing of REST services.
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
@@ -68,6 +70,10 @@ Also:
 
 * [PICT (Pairwise Independent Combinatorial Testing)](https://github.com/Microsoft/pict) - PICT generates test cases and test configurations. With PICT, you can generate tests that are more effective than manually generated tests and in a fraction of the time required by hands-on test case design.
 
+## Test management
+
+* [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
+
 # Resources
 Where to discover new libraries, information, tools, etc.
 
@@ -75,6 +81,7 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+* [Testomat.io](https://testomat.io/) - test management and reporting system for automated tests
 
 # Other Awesome Test Automation Lists
 

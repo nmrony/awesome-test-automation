@@ -32,6 +32,7 @@ Also:
 * [testim.io](https://www.testim.io/) - Automated functional testing platform with a GUI for authoring and machine learning based self-maintenance.
 * [cypress.io](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. Runs on Mac, Linux, Windows and any CI.
 * [Rainforest QA](https://www.rainforestqa.com/) - No Code Mobile & Web Testing for everything. Mac, Linux, Windows, iOS & Android.
+* [BugBug.io](https://bugbug.io/) - A codeless, end-to-end testing tool which allows you to easily record&play tests in you own browser, schedule them in the cloud or connect with your CI/CD pipeline.
 
 ## API test automation and testing
 * [MockLab](http://get.mocklab.io?utm_source=awesome-test-automation&utm_medium=automation-and-testing-as-service) is a hosted API simulation tool built on WireMock (maintaining 100% API compatibility). It supports flexible request/response stubbing for any HTTP-based protocol, response templating with Handlebars, conditional proxying and fault injection.
@@ -56,7 +57,7 @@ Also:
 * [Scan My Server](https://www.scanmyserver.com/) - Free tool for Web Security scanning.
 
 ## Reporting
-
+* [Testomat.io](https://testomat.io/) - test management and reporting system for automated tests
 * [Browsershots](http://browsershots.org/) -  Makes screenshots of your web design in different browsers. It is a free open-source online service created by Johann C. Rocholl. When you submit your web address, it will be added to the job queue. A number of distributed computers will open your website in their browser. Then they will make screenshots and upload them to the central server here.
 * [Perfomatic](https://wiki.mozilla.org/Perfomatic) - Mozilla graph server is used to understand how multiple performance metrics change over time. It is a web application for creating graphs of performance test results for a user-configurable combination of branch, operating system and machine. [Example](http://graphs.mozilla.org/graph.html).
 
